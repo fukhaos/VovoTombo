@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vovo Tombo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_config">Configurações</string>
+
+    <string name="nome_vovo">Nome do Vovô(ó)</string>
+    <string name="tel_contato">Telefone para contato</string>
+</resources>
